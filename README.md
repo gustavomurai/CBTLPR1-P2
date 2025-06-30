@@ -1,5 +1,7 @@
 # 🩺 Trabalho Prático - P2 (Substitutiva) | Java - CBTLPR1 (ADS 371)
 
+## Trabalo realizado em dupla por Gustavo e Igor Murai
+
 ## 👨‍🏫 Professor
 Wellington Tuler Moraes  
 Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Cubatão
