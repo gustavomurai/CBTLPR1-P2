@@ -1,6 +1,0 @@
-=== Consulta Agendada ===
-Paciente: Fernanda Lima
-Médico: Dr. Henrique
-Data da Consulta: 20/08/2025
-Hora da Consulta: 09:15:00
-Total de Consultas: 2
