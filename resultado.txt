@@ -1,0 +1,13 @@
+Consulta 1:
+Data: 13/05/2004
+Hora: 23:45:34
+Paciente: Hiago
+Médico: Valter
+
+Consulta 2:
+Data: 01/07/2025
+Hora: 23:22:15
+Paciente: Igor
+Médico: Gustavo
+
+Total de consultas: 2
