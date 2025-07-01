@@ -77,10 +77,4 @@ Gravar todo o resultado do Exercício 03 em um arquivo texto.
 
 ---
 
-## Disciplina
 
-- Linguagem de Programação 1 (CBTLPR1 – ADS 371)  
-- Professor: Wellington Tuler Moraes  
-- Instituto Federal de Educação, Ciência e Tecnologia de São Paulo – Campus Cubatão
-
----
